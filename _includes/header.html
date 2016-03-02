@@ -15,7 +15,11 @@
 
       <div class="trigger">
         
-         <a class="page-link" href="{{ "about/" }}">{{ "About" }}</a>
+		{% if page.url == "/about" %}
+            <span>title="This is the current page"><u>About</u></span>
+        {% else %}
+            <a class="page-link" href="{{ "/about" }}">{{ "About" }}</a>
+        {% endif %}
           
       </div>
     </nav>

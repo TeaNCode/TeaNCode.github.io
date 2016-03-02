@@ -1,19 +1,19 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about
 ---
 
-We're just a group of friends that enjoy coding really.
+We're just a group of friends that enjoy coding, and decided to post our code onto the internet for people to see.
 
 Individual user pages:
 
-[Blackop778](http://teancode.github.io/about/blackop778)
+[Blackop778](/about/blackop778)
 
-[lotrfan45](http://teancode.github.io/about/lotrfan45)
+[lotrfan45](/about/lotrfan45)
 
-[sirfunkbutter](http://teancode.github.io/about/sirfunkbutter)
+[sirfunkbutter](/about/sirfunkbutter)
 
-[trmartines](http://teancode.github.io/about/trmartines)
+[trmartines](/about/trmartines)
 
-[Zkemp](http://teancode.github.io/about/zkemp)
+[Zkemp](/about/zkemp)
