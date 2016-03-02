@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about
+permalink: /about/
 ---
 
 We're just a group of friends that enjoy coding, and decided to post our code onto the internet for people to see.
