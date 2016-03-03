@@ -3,6 +3,9 @@ layout: page
 title: trmartines
 permalink: /about/trmartines
 ---
+<h1>Name:</h1>
+<p>T "Jaboi" Martines</p>
+<h1>About:</h1>
+<p>me llamo juan. me gusta tu madre.</p>
 
-me llamo juan. me gusta your mom.
-T_Mart is kinda disurbed.
+T_Mart is kinda disturbed.
