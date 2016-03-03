@@ -1,4 +1,4 @@
-<title>tmartines</title>
+
 <h1>Name:</h1>
 <p>T "Jaboi" Martines</p>
 <h1>About:</h1>
