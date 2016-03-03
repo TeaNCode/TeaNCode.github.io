@@ -1,8 +1,4 @@
----
-layout: page
-title: trmartines
-permalink: /about/trmartines
----
+
 <h1>Name:</h1>
 <p>T "Jaboi" Martines</p>
 <h1>About:</h1>
