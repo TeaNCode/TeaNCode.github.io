@@ -1,9 +1,8 @@
 ---
-layout: page-no-header
+layout: game-no-header
 title: Games Main
 permalink: /games/
-category: games
-resource: true
+categories: [games]
 ---
 
 <h1>Games</h1>

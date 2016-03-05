@@ -1,2 +1,13 @@
-<header class="games-header">
+<p>
 	<div class="wrapper">
+	    <nav class="game-nav">
+		    <div class="trigger">
+			    {% for page in site.pages %}
+                    {% if page.categories contains 'games' %}
+                        <a href="{{ page.url }}">{{ page.title }}</a>
+                    {% endif %}
+                {% endfor %}
+		</div>
+		</nav>
+	</div>
+</p>

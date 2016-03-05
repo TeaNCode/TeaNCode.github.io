@@ -20,6 +20,12 @@
         {% else %}
             <a class="page-link" href="{{ "/about" }}">{{ "About" }}</a>
         {% endif %}
+		
+		{% if page.url == "/games/" %}
+            <u>Games</u>
+        {% else %}
+            <a class="page-link" href="{{ "/games" }}">{{ "Games" }}</a>
+        {% endif %}
           
       </div>
     </nav>
