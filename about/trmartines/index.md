@@ -1,7 +1,7 @@
+---
+layout: page
+title: trmartines
+permalink: /about/trmartines
+---
 
-<h1>Name:</h1>
-<p>T "Jaboi" Martines</p>
-<h1>About:</h1>
-<p>me llamo juan. me gusta tu madre.</p>
-
-T_Mart is kinda disturbed.
+T "jaboi""juan" Mart. ummm hi! this is my webpage and will have any links to my stuff or anything i find funny that is related to TeaNCode
