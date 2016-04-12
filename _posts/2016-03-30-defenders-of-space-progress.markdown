@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Starting Defenders of Space"
+title:  "Defenders of Space Progress"
 date:   2016-03-30 07:41:08 -0600
 categories: projects update
 ---
